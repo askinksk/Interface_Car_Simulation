@@ -1,0 +1,15 @@
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\bin\Debug\net6.0\ArabaOrnek.exe
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\bin\Debug\net6.0\ArabaOrnek.deps.json
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\bin\Debug\net6.0\ArabaOrnek.runtimeconfig.json
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\bin\Debug\net6.0\ArabaOrnek.dll
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\bin\Debug\net6.0\ArabaOrnek.pdb
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.csproj.AssemblyReference.cache
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.AssemblyInfoInputs.cache
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.AssemblyInfo.cs
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.dll
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\refint\ArabaOrnek.dll
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.pdb
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ArabaOrnek.genruntimeconfig.cache
+C:\Users\askin.kesik\Desktop\c#\csharpintro\CsharpIntro\ArabaOrnek\obj\Debug\net6.0\ref\ArabaOrnek.dll
